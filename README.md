@@ -1,10 +1,16 @@
 # Blog
-Simple blog, display content and manage user + contents\n
+Simple blog, display content and manage user + contents
+
 Language: java
+
 API: IntelliJ IDEA Community Edition 2021.2.1
+
     Go to start.spring.io to create a project include: Lombok, Spring Web, Spring Data JPA and MS SQL Server Driver.
+    
 Android: Android Studio
+
         base in model have link API, change it for suitable
+        
 ![image](https://user-images.githubusercontent.com/76697904/141056603-92b5c009-42eb-4eec-ba05-7601b4d8df09.png)
 ![image](https://user-images.githubusercontent.com/76697904/141056668-197705db-7352-421a-b7c8-cec2bd50231c.png)
 ![image](https://user-images.githubusercontent.com/76697904/141056693-14ba5552-7561-41b8-8e07-fa9c6e8e1824.png)
